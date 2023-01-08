@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Collective Heroes",
+    "icon": {
+      "value": "CUSTOM:Greenarrow.helmet"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "best_superhero_mod:items/example_bow_pulling_0"
+    }
+}

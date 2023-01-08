@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "green_arrow_bbab_0",
+    "enableBody": true,
+    "textureBody": "green_arrow_bbab_1",
+    "enableLeggings": true,
+    "textureLeggings": "green_arrow_bbab_2",
+    "enableBoots": true,
+    "textureBoots": "green_arrow_bbab_3",
+    "creativeTab": {
+      "value": "CUSTOM:CollectiveHeroes"
+    },
+    "armorTextureFile": "model",
+    "helmetName": "Greenarrow Helmet",
+    "bodyName": "Greenarrow Body",
+    "leggingsName": "Greenarrow Leggings",
+    "bootsName": "Greenarrow Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelGREENARROW",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "layer1.png",
+    "bodyModelName": "ModelGREENARROW",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "layer1.png",
+    "leggingsModelName": "ModelGREENARROW",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "layer2.png",
+    "bootsModelName": "ModelGREENARROW",
+    "bootsModelPartL": "LeftLeg",
+    "bootsModelPartR": "RightLeg",
+    "bootsModelTexture": "layer1.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "block.candle.hit"
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.WOOL#13"
+      }
+    ]
+  }
+}

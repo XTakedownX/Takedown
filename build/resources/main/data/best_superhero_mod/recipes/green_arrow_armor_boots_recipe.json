@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:arrow"
+    },
+    "2": {
+      "item": "minecraft:arrow"
+    },
+    "3": {
+      "item": "minecraft:arrow"
+    },
+    "5": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "best_superhero_mod:green_arrow_armor_boots",
+    "count": 1
+  }
+}

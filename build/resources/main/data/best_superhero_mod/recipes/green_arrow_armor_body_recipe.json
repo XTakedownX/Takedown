@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:arrow"
+    },
+    "2": {
+      "item": "minecraft:arrow"
+    },
+    "3": {
+      "item": "minecraft:arrow"
+    },
+    "4": {
+      "item": "minecraft:arrow"
+    },
+    "5": {
+      "item": "minecraft:arrow"
+    },
+    "6": {
+      "item": "minecraft:arrow"
+    },
+    "7": {
+      "item": "minecraft:arrow"
+    },
+    "8": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "best_superhero_mod:green_arrow_armor_chestplate",
+    "count": 1
+  }
+}

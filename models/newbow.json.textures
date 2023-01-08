@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crossbow_other",
+        "1": "bow_body",
+        "2": "crossbow_string",
+        "-1": "arrow_side"
+      },
+      "name": "default"
+    }
+  }
+}
