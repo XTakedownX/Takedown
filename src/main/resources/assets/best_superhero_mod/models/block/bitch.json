@@ -1,0 +1,8 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "best_superhero_mod:blocks/bow_body",
+    "particle": "best_superhero_mod:blocks/crossbow_body"
+  },
+  "render_type": "solid"
+}

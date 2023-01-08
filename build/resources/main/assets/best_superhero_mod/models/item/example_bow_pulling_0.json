@@ -1,0 +1,10 @@
+{
+  "parent": "best_superhero_mod:custom/newbow",
+  "textures": {
+    "0": "best_superhero_mod:blocks/crossbow_other",
+    "1": "best_superhero_mod:blocks/bow_body",
+    "2": "best_superhero_mod:blocks/crossbow_string",
+    "-1": "best_superhero_mod:blocks/arrow_side",
+    "particle": "best_superhero_mod:items/bow_body"
+  }
+}

@@ -32,6 +32,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.bestsuperheromod.init.BestSuperheroModModTabs;
 import net.mcreator.bestsuperheromod.init.BestSuperheroModModItems;
 import net.mcreator.bestsuperheromod.init.BestSuperheroModModEntities;
+import net.mcreator.bestsuperheromod.init.BestSuperheroModModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -50,6 +51,7 @@ public class BestSuperheroModMod {
 		BestSuperheroModModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+		BestSuperheroModModBlocks.REGISTRY.register(bus);
 		BestSuperheroModModItems.REGISTRY.register(bus);
 		BestSuperheroModModEntities.REGISTRY.register(bus);
 

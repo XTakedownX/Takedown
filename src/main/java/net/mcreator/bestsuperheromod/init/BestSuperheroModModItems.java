@@ -8,7 +8,10 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.bestsuperheromod.item.GreenarrowItem;
 import net.mcreator.bestsuperheromod.item.Green_ArrowArmorItem;
@@ -31,4 +34,9 @@ public class BestSuperheroModModItems {
 	public static final RegistryObject<Item> GREENARROW_LEGGINGS = REGISTRY.register("greenarrow_leggings", () -> new GreenarrowItem.Leggings());
 	public static final RegistryObject<Item> GREENARROW_BOOTS = REGISTRY.register("greenarrow_boots", () -> new GreenarrowItem.Boots());
 	public static final RegistryObject<Item> COMPOUND_BOW = REGISTRY.register("compound_bow", () -> new CompoundBowItem());
+	public static final RegistryObject<Item> BITCH = block(BestSuperheroModModBlocks.BITCH, BestSuperheroModModTabs.TAB_COLLECTIVE_HEROES);
+
+	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
+	}
 }
