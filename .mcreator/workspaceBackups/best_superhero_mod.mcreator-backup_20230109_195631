@@ -73,23 +73,59 @@
       "type": "rangeditem",
       "sortid": 6,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "compound_bow"
+    },
+    {
+      "name": "Bitch",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bitch"
+    },
+    {
+      "name": "Nightwing",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nightwing",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Suitmaker",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suitmaker"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.best_superhero_mod.green_arrow_armor_chestplate": "Green_Arrow Chestplate",
       "itemGroup.tabcollective_heroes": "Collective Heroes",
-      "item.best_superhero_mod.greenarrow_helmet": "Greenarrow Helmet",
-      "item.best_superhero_mod.green_arrow_armor_boots": "Green_Arrow Boots",
+      "item.best_superhero_mod.nightwing_leggings": "Nightwing Leggings",
+      "block.best_superhero_mod.suitmaker": "Suitmaker",
+      "item.best_superhero_mod.nightwing_chestplate": "Nightwing Body",
       "item.best_superhero_mod.compound_bow": "Compound Bow",
       "item.best_superhero_mod.green_arrow_armor_leggings": "Green_Arrow Leggings",
-      "item.best_superhero_mod.greenarrow_leggings": "Greenarrow Leggings",
       "item.best_superhero_mod.greenarrow_boots": "Greenarrow Boots",
       "item.best_superhero_mod.green_arrow_armor_helmet": "Green_Arrow Helmet",
+      "block.best_superhero_mod.bitch": "Bitch",
+      "item.best_superhero_mod.green_arrow_armor_chestplate": "Green_Arrow Chestplate",
+      "item.best_superhero_mod.nightwing_helmet": "Nightwing Helmet",
+      "item.best_superhero_mod.nightwing_boots": "Nightwing Boots",
+      "item.best_superhero_mod.greenarrow_helmet": "Greenarrow Helmet",
+      "item.best_superhero_mod.green_arrow_armor_boots": "Green_Arrow Boots",
+      "item.best_superhero_mod.greenarrow_leggings": "Greenarrow Leggings",
       "item.best_superhero_mod.greenarrow_chestplate": "Greenarrow Body"
     }
   },

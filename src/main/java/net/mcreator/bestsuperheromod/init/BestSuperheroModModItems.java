@@ -13,6 +13,7 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.bestsuperheromod.item.NightwingItem;
 import net.mcreator.bestsuperheromod.item.GreenarrowItem;
 import net.mcreator.bestsuperheromod.item.Green_ArrowArmorItem;
 import net.mcreator.bestsuperheromod.item.CompoundBowItem;
@@ -35,6 +36,11 @@ public class BestSuperheroModModItems {
 	public static final RegistryObject<Item> GREENARROW_BOOTS = REGISTRY.register("greenarrow_boots", () -> new GreenarrowItem.Boots());
 	public static final RegistryObject<Item> COMPOUND_BOW = REGISTRY.register("compound_bow", () -> new CompoundBowItem());
 	public static final RegistryObject<Item> BITCH = block(BestSuperheroModModBlocks.BITCH, BestSuperheroModModTabs.TAB_COLLECTIVE_HEROES);
+	public static final RegistryObject<Item> NIGHTWING_HELMET = REGISTRY.register("nightwing_helmet", () -> new NightwingItem.Helmet());
+	public static final RegistryObject<Item> NIGHTWING_CHESTPLATE = REGISTRY.register("nightwing_chestplate", () -> new NightwingItem.Chestplate());
+	public static final RegistryObject<Item> NIGHTWING_LEGGINGS = REGISTRY.register("nightwing_leggings", () -> new NightwingItem.Leggings());
+	public static final RegistryObject<Item> NIGHTWING_BOOTS = REGISTRY.register("nightwing_boots", () -> new NightwingItem.Boots());
+	public static final RegistryObject<Item> SUITMAKER = block(BestSuperheroModModBlocks.SUITMAKER, BestSuperheroModModTabs.TAB_COLLECTIVE_HEROES);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

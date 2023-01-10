@@ -14,12 +14,14 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.bestsuperheromod.block.SuitmakerBlock;
 import net.mcreator.bestsuperheromod.block.BitchBlock;
 import net.mcreator.bestsuperheromod.BestSuperheroModMod;
 
 public class BestSuperheroModModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, BestSuperheroModMod.MODID);
 	public static final RegistryObject<Block> BITCH = REGISTRY.register("bitch", () -> new BitchBlock());
+	public static final RegistryObject<Block> SUITMAKER = REGISTRY.register("suitmaker", () -> new SuitmakerBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {

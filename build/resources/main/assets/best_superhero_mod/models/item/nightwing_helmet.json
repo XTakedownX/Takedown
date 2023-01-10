@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "best_superhero_mod:items/batman_beyond_0"
+  }
+}
