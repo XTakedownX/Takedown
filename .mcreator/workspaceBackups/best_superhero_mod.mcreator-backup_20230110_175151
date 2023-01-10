@@ -1,0 +1,205 @@
+{
+  "mod_elements": [
+    {
+      "name": "Green_ArrowArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "green_arrow_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Green_ArrowArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_arrow_armor_helmet_recipe"
+    },
+    {
+      "name": "Green_ArrowArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_arrow_armor_body_recipe"
+    },
+    {
+      "name": "Green_ArrowArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_arrow_armor_leggings_recipe"
+    },
+    {
+      "name": "Green_ArrowArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_arrow_armor_boots_recipe"
+    },
+    {
+      "name": "Greenarrow",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "greenarrow",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CollectiveHeroes",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collective_heroes"
+    },
+    {
+      "name": "CompoundBow",
+      "type": "rangeditem",
+      "sortid": 6,
+      "compiles": false,
+      "locked_code": true,
+      "registry_name": "compound_bow"
+    },
+    {
+      "name": "Bitch",
+      "type": "block",
+      "sortid": 7,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "bitch"
+    },
+    {
+      "name": "Nightwing",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nightwing",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Suitmaker",
+      "type": "block",
+      "sortid": 9,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "suitmaker"
+    },
+    {
+      "name": "RocketArmor",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RocketArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_armor_helmet_recipe"
+    },
+    {
+      "name": "RocketArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_armor_body_recipe"
+    },
+    {
+      "name": "RocketArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_armor_leggings_recipe"
+    },
+    {
+      "name": "RocketArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabcollective_heroes": "Collective Heroes",
+      "item.best_superhero_mod.nightwing_leggings": "Nightwing Leggings",
+      "block.best_superhero_mod.suitmaker": "Suitmaker",
+      "item.best_superhero_mod.nightwing_chestplate": "Nightwing Body",
+      "item.best_superhero_mod.compound_bow": "Compound Bow",
+      "item.best_superhero_mod.green_arrow_armor_leggings": "Green_Arrow Leggings",
+      "item.best_superhero_mod.greenarrow_boots": "Greenarrow Boots",
+      "item.best_superhero_mod.green_arrow_armor_helmet": "Green_Arrow Helmet",
+      "item.best_superhero_mod.rocket_armor_boots": "Rocket Boots",
+      "block.best_superhero_mod.bitch": "Bitch",
+      "item.best_superhero_mod.green_arrow_armor_chestplate": "Green_Arrow Chestplate",
+      "item.best_superhero_mod.nightwing_helmet": "Nightwing Helmet",
+      "item.best_superhero_mod.nightwing_boots": "Nightwing Boots",
+      "item.best_superhero_mod.rocket_armor_helmet": "Rocket Helmet",
+      "item.best_superhero_mod.rocket_armor_leggings": "Rocket Leggings",
+      "item.best_superhero_mod.greenarrow_helmet": "Greenarrow Helmet",
+      "item.best_superhero_mod.green_arrow_armor_boots": "Green_Arrow Boots",
+      "item.best_superhero_mod.rocket_armor_chestplate": "Rocket Chestplate",
+      "item.best_superhero_mod.greenarrow_leggings": "Greenarrow Leggings",
+      "item.best_superhero_mod.greenarrow_chestplate": "Greenarrow Body"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "best_superhero_mod",
+    "modName": "Best Superhero mod",
+    "version": "1.0.0",
+    "author": "Owner, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.bestsuperheromod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "best_superhero_mod:blocks/suitmakerside",
+    "up": "best_superhero_mod:blocks/suitmaker",
+    "north": "best_superhero_mod:blocks/suitmakerside",
+    "east": "best_superhero_mod:blocks/suitmakerside",
+    "south": "best_superhero_mod:blocks/suitmakerside",
+    "west": "best_superhero_mod:blocks/suitmakerside",
+    "particle": "best_superhero_mod:blocks/suitmakerside"
+  },
+  "render_type": "solid"
+}

@@ -32,7 +32,7 @@
 	</classpathentry>
 	<classpathentry kind="output" path="bin/default"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17/"/>
-	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.2-43.1.7_mapped_official_1.19.2/forge-1.19.2-43.1.7_mapped_official_1.19.2.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/MCreatorWorkspaces/collectiveheroes/build/fg_cache/net/minecraftforge/forge/1.19.2-43.1.7_mapped_official_1.19.2/forge-1.19.2-43.1.7_mapped_official_1.19.2.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -227,12 +227,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/logging/1.0.0/600952f78e73b97b05b3a6e1a9c6ef049cfe0112/logging-1.0.0-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/logging/1.0.0/f6ca3b2eee0b80b384e8ed93d368faecb82dfb9b/logging-1.0.0.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/logging/1.0.0/f6ca3b2eee0b80b384e8ed93d368faecb82dfb9b/logging-1.0.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/ef44852fa1707a833bfa8e8518659ab18f368d25/blocklist-1.0.10-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -277,7 +277,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/javabridge/1.2.24/a9ca59eebc32c5c771075df31a0b6e31d2ed8565/javabridge-1.2.24-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/javabridge/1.2.24/c876796229b2ef5120f186eab5acc870699d3b9/javabridge-1.2.24.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/javabridge/1.2.24/c876796229b2ef5120f186eab5acc870699d3b9/javabridge-1.2.24.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -352,12 +352,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.0.18/f93ce897789cb28518ebb7a8a6bc3946922bc8b6/brigadier-1.0.18-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.0.18/c1ef1234282716483c92183f49bef47b1a89bfa9/brigadier-1.0.18.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.0.18/c1ef1234282716483c92183f49bef47b1a89bfa9/brigadier-1.0.18.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/5.0.28/db75a9299540c2b371afa8ee048dcd396d4591fc/datafixerupper-5.0.28-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/5.0.28/e2157e236e529aff80a5fc3ccb506e56d46b130b/datafixerupper-5.0.28.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/5.0.28/e2157e236e529aff80a5fc3ccb506e56d46b130b/datafixerupper-5.0.28.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -367,7 +367,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/authlib/3.11.49/6feee4b25a47d4bc8492b062a841d437045cf154/authlib-3.11.49-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/authlib/3.11.49/2e3055ec2a017c7f94b79744b4a68b65695a118c/authlib-3.11.49.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/authlib/3.11.49/2e3055ec2a017c7f94b79744b4a68b65695a118c/authlib-3.11.49.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -507,12 +507,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/4b5618644de70793f2917b51dd63214f5ffaee09/text2speech-1.13.9-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/5f4e3a6ef86cb021f7ca87ca192cddb50c26eb59/text2speech-1.13.9.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/5f4e3a6ef86cb021f7ca87ca192cddb50c26eb59/text2speech-1.13.9.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/4b5618644de70793f2917b51dd63214f5ffaee09/text2speech-1.13.9-sources.jar" kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/7a90898b29e5c72f90ba6ebe86fa78a6afd7d3eb/text2speech-1.13.9-natives-windows.jar">
+	<classpathentry kind="lib" path="C:/Users/ethan/.mcreator/gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.13.9/7a90898b29e5c72f90ba6ebe86fa78a6afd7d3eb/text2speech-1.13.9-natives-windows.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>

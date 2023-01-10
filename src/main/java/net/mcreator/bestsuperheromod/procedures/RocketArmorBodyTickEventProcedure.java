@@ -1,0 +1,14 @@
+package net.mcreator.bestsuperheromod.procedures;
+
+import net.minecraft.world.phys.Vec3;
+import net.minecraft.world.entity.Entity;
+
+public class RocketArmorBodyTickEventProcedure {
+	public static void execute(Entity entity) {
+		if (entity == null)
+			return;
+		if (entity.getPersistentData().getBoolean("flight")) {
+			entity.setDeltaMovement(new Vec3((entity.getDeltaMovement().x()), 0.2, (entity.getDeltaMovement().z())));
+		}
+	}
+}
